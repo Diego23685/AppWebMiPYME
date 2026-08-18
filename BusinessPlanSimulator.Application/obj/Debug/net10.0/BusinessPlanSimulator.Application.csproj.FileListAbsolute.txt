@@ -1,0 +1,15 @@
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\bin\Debug\net10.0\BusinessPlanSimulator.Application.deps.json
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\bin\Debug\net10.0\BusinessPlanSimulator.Application.dll
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\bin\Debug\net10.0\BusinessPlanSimulator.Application.pdb
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\bin\Debug\net10.0\BusinessPlanSimulator.Domain.dll
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\bin\Debug\net10.0\BusinessPlanSimulator.Domain.pdb
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\BusinessPlanSimulator.Application.csproj.AssemblyReference.cache
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\BusinessPlanSimulator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\BusinessPlanSimulator.Application.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\BusinessPlanSimulator.Application.AssemblyInfo.cs
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\BusinessPlanSimulator.Application.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\Business.AF0887EB.Up2Date
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\BusinessPlanSimulator.Application.dll
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\refint\BusinessPlanSimulator.Application.dll
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\BusinessPlanSimulator.Application.pdb
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Application\obj\Debug\net10.0\ref\BusinessPlanSimulator.Application.dll

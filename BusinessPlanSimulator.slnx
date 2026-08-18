@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessPlanSimulator.Api/BusinessPlanSimulator.Api.csproj" />
+  <Project Path="BusinessPlanSimulator.Application/BusinessPlanSimulator.Application.csproj" />
+  <Project Path="BusinessPlanSimulator.Domain/BusinessPlanSimulator.Domain.csproj" />
+  <Project Path="BusinessPlanSimulator.Infrastructure/BusinessPlanSimulator.Infrastructure.csproj" />
+</Solution>

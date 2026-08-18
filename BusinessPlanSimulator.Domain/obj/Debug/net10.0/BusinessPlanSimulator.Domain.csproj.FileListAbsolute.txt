@@ -1,0 +1,11 @@
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\bin\Debug\net10.0\BusinessPlanSimulator.Domain.deps.json
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\bin\Debug\net10.0\BusinessPlanSimulator.Domain.dll
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\bin\Debug\net10.0\BusinessPlanSimulator.Domain.pdb
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\BusinessPlanSimulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\BusinessPlanSimulator.Domain.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\BusinessPlanSimulator.Domain.AssemblyInfo.cs
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\BusinessPlanSimulator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\BusinessPlanSimulator.Domain.dll
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\refint\BusinessPlanSimulator.Domain.dll
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\BusinessPlanSimulator.Domain.pdb
+C:\Users\diego\Documents\cosa de william\BusinessPlanSimulator.Domain\obj\Debug\net10.0\ref\BusinessPlanSimulator.Domain.dll
