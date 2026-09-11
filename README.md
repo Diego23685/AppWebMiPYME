@@ -303,7 +303,7 @@ dotnet ef --version
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/business-plan-simulator.git
+git clone https://github.com/tu-usuario/business-plan-simulator.git](https://github.com/Diego23685/AppWebMiPYME
 cd business-plan-simulator
 ```
 
@@ -356,7 +356,7 @@ dotnet run
 Por defecto, la API estará disponible en:
 
 ```text
-http://localhost:5000
+http://localhost:5206
 ```
 
 El puerto puede variar dependiendo de la configuración de `launchSettings.json`.
