@@ -303,7 +303,7 @@ dotnet ef --version
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/business-plan-simulator.git](https://github.com/Diego23685/AppWebMiPYME
+git clone https://github.com/Diego23685/AppWebMiPYME
 cd business-plan-simulator
 ```
 
