@@ -1,0 +1,197 @@
+# ============================================================
+# BUSINESS PLAN SIMULATOR ERP
+# Gitignore para React/Vite + ASP.NET Core/.NET
+# ============================================================
+
+
+# ============================================================
+# GENERAL
+# ============================================================
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.old
+
+
+# ============================================================
+# FRONTEND - REACT / VITE / NODE
+# ============================================================
+
+# Dependencias
+frontend/node_modules/
+
+# Build de producción
+frontend/dist/
+frontend/build/
+
+# Vite
+frontend/.vite/
+
+# Coverage
+frontend/coverage/
+
+# Cache
+frontend/.cache/
+frontend/.eslintcache
+frontend/.stylelintcache
+frontend/.parcel-cache/
+
+# TypeScript
+frontend/*.tsbuildinfo
+
+# Environment variables
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Mantener ejemplos de configuración
+!frontend/.env.example
+
+# npm
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Misc
+frontend/.DS_Store
+
+
+# ============================================================
+# BACKEND - ASP.NET CORE / .NET
+# ============================================================
+
+# Build
+backend/bin/
+backend/obj/
+
+# Visual Studio
+backend/.vs/
+
+# Rider
+backend/.idea/
+
+# User-specific files
+backend/*.user
+backend/*.suo
+
+# Logs
+backend/logs/
+backend/*.log
+
+# Test results
+backend/TestResults/
+backend/**/TestResults/
+
+# Coverage
+backend/coverage/
+
+# NuGet
+backend/packages/
+
+# ASP.NET generated files
+backend/wwwroot/lib/
+
+# Development certificates
+backend/*.pfx
+backend/*.p12
+
+# Environment variables / configuration local
+backend/appsettings.Development.json
+backend/appsettings.Local.json
+backend/appsettings.*.local.json
+
+# Mantener configuración de ejemplo
+!backend/appsettings.example.json
+
+# User secrets
+backend/secrets.json
+
+
+# ============================================================
+# DATABASE
+# ============================================================
+
+# Dumps de MySQL
+*.sql
+*.sql.gz
+*.dump
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+
+# ============================================================
+# SECRETS / CREDENTIALS
+# ============================================================
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Claves y certificados
+*.key
+*.pem
+*.crt
+*.cer
+
+# Credenciales
+credentials.json
+secrets.json
+service-account.json
+
+
+# ============================================================
+# TEMPORALES
+# ============================================================
+
+*.swp
+*.swo
+*~
+*.orig
+
+# Carpetas temporales
+temp/
+tmp/
+.cache/
+
+
+# ============================================================
+# GENERATED FILES
+# ============================================================
+
+# Archivos generados automáticamente
+*.generated.cs
+*.generated.json
+
+# Reportes generados localmente
+reports/
+exports/
+generated/
